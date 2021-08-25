@@ -52,6 +52,8 @@ public class ExplodeJsonArray extends GenericUDTF {
             result[0] = actions.getString(i);
             forward(result);
         }
+
+        System.out.println("branch merge test");
         System.out.println("test");
         System.out.println("test git");
     }
