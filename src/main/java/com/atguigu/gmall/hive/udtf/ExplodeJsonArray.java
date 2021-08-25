@@ -57,6 +57,8 @@ public class ExplodeJsonArray extends GenericUDTF {
         System.out.println("test");
         System.out.println("test git");
         System.out.println("push into github test");
+        System.out.println("pull into local test");
+
     }
 
     public void close() throws HiveException {
